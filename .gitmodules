@@ -1,9 +1,9 @@
 [submodule "stackline"]
 	path = stackline
 	url = https://github.com/molleweide/stackline.git
-[submodule "Spoon/VimMode.spoon"]
-	path = Spoon/VimMode.spoon
+[submodule "Spoons/VimMode.spoon"]
+	path = Spoons/VimMode.spoon
 	url = git@github.com:dbalatero/VimMode.spoon.git
-[submodule "Spoon/HyperKey.spoon"]
-	path = Spoon/HyperKey.spoon
+[submodule "Spoons/HyperKey.spoon"]
+	path = Spoons/HyperKey.spoon
 	url = git@github.com:dbalatero/HyperKey.spoon.git
