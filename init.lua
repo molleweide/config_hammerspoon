@@ -1,12 +1,16 @@
 inspect = hs.inspect.inspect
 
 local vimouse = require('vimouse')
-vimouse('cmd', 'm')
-
+-- local stackline = require "stackline"
 local VimMode = hs.loadSpoon("VimMode")
 
+
+-- set mouse key toggle
+vimouse('cmd', 'm')
+
 require "common"
-require "nytimes"
+
+-- require "nytimes"
 require "quick-switch"
 require "config-watch"
 require "window-management"
